@@ -1,7 +1,7 @@
 """
 File: cafe_bill.py
 Course: C S 313E
-Description: Solution for Week 1 Lecture Activity - Cafe Bill
+Description: Solution for Week 1 Lecture 1 Activity - Cafe Bill
 """
 
 # Instructions: You run a small cafe and need to generate a basic bill
